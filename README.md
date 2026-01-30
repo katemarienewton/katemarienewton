@@ -1,6 +1,6 @@
 Kia ora!
 
-I'm a web developer based in Aotearoa / New Zealand. 
+I'm a web developer based in Aotearoa / New Zealand. I work as long haul cabin crew but in my personal time have been advancing my web developer skills.
 
 Currently my displayed project is Seasonal Gardening! This was an awesome project I worked on with my team mates from Dev Academy Aotearoa, where we created a regional and seasonal specific gardening website. My favourite part of this website is a calculator we added to see how many plants you would need to plant per year to feed a family. The family size is variable and the calculator adjusts for this.
 
