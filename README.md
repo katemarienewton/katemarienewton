@@ -1,4 +1,14 @@
-## Hi there 👋
+Kia ora!
+
+I'm a web developer based in Aotearoa / New Zealand. 
+
+Currently my displayed project is Seasonal Gardening! This was an awesome project I worked on with my team mates from Dev Academy Aotearoa, where we created a regional and seasonal specific gardening website. My favourite part of this website is a calculator we added to see how many plants you would need to plant per year to feed a family. The family size is variable and the calculator adjusts for this.
+
+In the future I would love to discover an API to make a clickable map for regions in Aotearoa rather than a dropdown box. 
+
+My current private project is another clickable map project. I have found myself bored of reading contempory novels from the western world and want to read a more diverse range of books! This project would be a clickable and highlightable map to display books each user has read from different countries. 
+
+꩜ .ᐟ
 
 <!--
 **katemarienewton/katemarienewton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
